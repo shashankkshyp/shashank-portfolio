@@ -52,7 +52,7 @@ export const PORTFOLIO_DATA = {
     github: "https://github.com/shashankkshyp",
     githubUsername: "shashankkshyp",
     linkedin: "https://www.linkedin.com/in/shashank-kashyap-16ab20278/",
-    linkedinDisplay: "linkedin.com/in/shashankkshyp",
+    linkedinDisplay: "https://www.linkedin.com/in/shashank-kashyap-16ab20278/",
     status: "Available for engineering roles & collaborations",
   },
 
