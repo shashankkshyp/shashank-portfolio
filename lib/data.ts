@@ -51,7 +51,7 @@ export const PORTFOLIO_DATA = {
     location: "Dehradun, Uttarakhand, India",
     github: "https://github.com/shashankkshyp",
     githubUsername: "shashankkshyp",
-    linkedin: "https://linkedin.com/in/shashankkshyp",
+    linkedin: "https://www.linkedin.com/in/shashank-kashyap-16ab20278/",
     linkedinDisplay: "linkedin.com/in/shashankkshyp",
     status: "Available for engineering roles & collaborations",
   },
